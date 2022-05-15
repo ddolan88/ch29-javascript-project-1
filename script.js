@@ -28,7 +28,28 @@ let D=`Dev`;
 
 document.write(`<p> You will be a ${D} in ${C}, and married to ${B} with ${A} kids.`)
 
+var Name;
+Name='Derek';
 
+var email;
+email=`user@mail.com`;
+
+var password;
+password=`password`;
+
+var age;
+age=33;
+
+var country;
+country=`US`;
+
+var salary;
+salary=5833
+
+document.write(`
+<p>Name: ${Name});</p>
+<p>Email: ${email}</p>
+<p>Salary (Yearly): ${12*salary}</p>`);
 
 
 
